@@ -1,0 +1,9 @@
+C:\Users\jacon\source\repos\MeterReadingsApi\MeterReadingsApi.Core\bin\Debug\netcoreapp3.1\MeterReadingsApi.Core.deps.json
+C:\Users\jacon\source\repos\MeterReadingsApi\MeterReadingsApi.Core\bin\Debug\netcoreapp3.1\MeterReadingsApi.Core.dll
+C:\Users\jacon\source\repos\MeterReadingsApi\MeterReadingsApi.Core\bin\Debug\netcoreapp3.1\MeterReadingsApi.Core.pdb
+C:\Users\jacon\source\repos\MeterReadingsApi\MeterReadingsApi.Core\obj\Debug\netcoreapp3.1\MeterReadingsApi.Core.csprojAssemblyReference.cache
+C:\Users\jacon\source\repos\MeterReadingsApi\MeterReadingsApi.Core\obj\Debug\netcoreapp3.1\MeterReadingsApi.Core.AssemblyInfoInputs.cache
+C:\Users\jacon\source\repos\MeterReadingsApi\MeterReadingsApi.Core\obj\Debug\netcoreapp3.1\MeterReadingsApi.Core.AssemblyInfo.cs
+C:\Users\jacon\source\repos\MeterReadingsApi\MeterReadingsApi.Core\obj\Debug\netcoreapp3.1\MeterReadingsApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\jacon\source\repos\MeterReadingsApi\MeterReadingsApi.Core\obj\Debug\netcoreapp3.1\MeterReadingsApi.Core.dll
+C:\Users\jacon\source\repos\MeterReadingsApi\MeterReadingsApi.Core\obj\Debug\netcoreapp3.1\MeterReadingsApi.Core.pdb
